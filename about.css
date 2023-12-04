@@ -1,7 +1,30 @@
 .layout {
-  background-color: goldenrod;
+  background-color: white;
   width: 40%;
   align-self: center;
   margin: auto;
   text-align: center;
+}
+.one{
+  height: 25%;
+  width: 30%;
+  margin: 5px;
+}
+.two{
+  height: 10%;
+  width: 25%;
+  margin: 5px;
+}
+.three{
+  height: 10%;
+  width: 25%;
+  margin: 5px;
+}
+.four{
+  height: 30%;
+  width: 30%;
+  margin: 5px;
+}
+.done{
+  display: flex;
 }
